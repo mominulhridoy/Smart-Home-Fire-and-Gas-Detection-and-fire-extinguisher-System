@@ -5,8 +5,8 @@
 #define FLAME_SENSOR_PIN 35    
 #define BUZZER_PIN 26          
 #define RELAY_PIN 27           
-#define WIFI_SSID "Area 51"    
-#define WIFI_PASSWORD "@Password-2024@" 
+#define WIFI_SSID "Your SSID"    
+#define WIFI_PASSWORD "Your Password" 
 
 AsyncWebServer server(80);
 
