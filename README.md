@@ -1,4 +1,4 @@
-# Smart-Home-Fire-and-Gas-Detection-and-fire-extinguisher-System
+# Smart Home Fire and Gas Detection and fire extinguisher System
 
 Here is the list of components for your project:
 ESP32 Microcontroller
