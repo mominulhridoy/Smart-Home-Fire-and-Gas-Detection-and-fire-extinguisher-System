@@ -1,6 +1,7 @@
 # Smart Home Fire and Gas Detection and fire extinguisher System
 
-Here is the list of components for your project:
+Here is the list of components for your project:-
+
 ESP32 Microcontroller,
 MQ-135 Gas Sensor,
 Flame Sensor (IR Flame Sensor),
@@ -13,7 +14,8 @@ I2C LCD 16x2 Display,
 Jumper Wires and Connectors,
 Breadboard
 
-Circuit Connections:
+Circuit Connections:-
+
 Gas Sensor: VCC to 3.3V, GND to GND, Analog OUT to GPIO34 (or any other analog pin) 
 
 Flame Sensor: VCC to 3.3V, GND to GND, Digital OUT to GPIO35
