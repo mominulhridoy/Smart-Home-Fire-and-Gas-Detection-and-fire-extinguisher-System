@@ -16,11 +16,12 @@ Breadboard
 
 Circuit Connections:-
 
-Gas Sensor: VCC to 3.3V, GND to GND, Analog OUT to GPIO34 (or any other analog pin) 
+1.Gas Sensor: VCC to 3.3V, GND to GND, Analog OUT to GPIO34 (or any other analog pin) 
 
-Flame Sensor: VCC to 3.3V, GND to GND, Digital OUT to GPIO35
+2.Flame Sensor: VCC to 3.3V, GND to GND, Digital OUT to GPIO35
 
-Buzzer: Positive (+) to GPIO26, Negative (-) to GND
-Relay Module (for Water Pump): Signal IN to GPIO27, VCC to 5V, GND to GND
+3.Buzzer: Positive (+) to GPIO26, Negative (-) to GND
 
-I2C LCD: SDA to GPIO21, SCL to GPIO22, VCC to 3.3V, GND to GND
+4.Relay Module (for Water Pump): Signal IN to GPIO27, VCC to 5V, GND to GND
+
+5.I2C LCD: SDA to GPIO21, SCL to GPIO22, VCC to 3.3V, GND to GND
